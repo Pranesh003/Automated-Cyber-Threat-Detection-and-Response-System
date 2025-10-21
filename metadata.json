@@ -1,0 +1,5 @@
+{
+  "name": "Automated Cyber Threat Detection and Response System",
+  "description": "An AI-driven cybersecurity platform to automatically detect, analyze, and respond to malicious network activities in real time. This dashboard visualizes network activity, threats, and provides AI-generated incident summaries using the Gemini API.",
+  "requestFramePermissions": []
+}
